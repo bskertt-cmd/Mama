@@ -1,6 +1,6 @@
 #profile-title: Кукэй Vpn
 #profile-update-interval: 1
-#announce: Раяз,Ясмина,Раяз вы лошары.
+#announce: Раяз,Ясмина,Замира вы лошары.Создатель — крутой камиль
 #subscription-userinfo: upload=499900000000000; download=0; total=0; expire=253370764800
 
 hysteria2://e11e3e0f-0ba2-43cf-8f67-66708f7effa1@de1.apexvpn.space:443?sni=de1.apexvpn.space&fp=ios&alpn=h3#🇩🇪Германия | TikTok
